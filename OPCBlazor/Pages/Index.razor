@@ -101,7 +101,7 @@ else
 
         application.CheckApplicationInstanceCertificate(false, 2048).GetAwaiter().GetResult();
 
-        var selectedEndpoint = CoreClientUtils.SelectEndpoint("opc.tcp://127.0.0.1:49320", useSecurity: true);
+        var selectedEndpoint = CoreClientUtils.SelectEndpoint("opc.tcp://10.77.0.220:49320", useSecurity: true);
 
 
         session = Session

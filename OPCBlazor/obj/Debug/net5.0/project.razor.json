@@ -111,39 +111,6 @@
         }
       },
       {
-        "HashCode": 1599669415,
-        "Kind": "Components.Component",
-        "Name": "OPCBlazor.Pages.OpceClient",
-        "AssemblyName": "OPCBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "OpceClient"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "OPCBlazor.Pages.OpceClient"
-        }
-      },
-      {
-        "HashCode": -2089416712,
-        "Kind": "Components.Component",
-        "Name": "OPCBlazor.Pages.OpceClient",
-        "AssemblyName": "OPCBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "OPCBlazor.Pages.OpceClient"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "OPCBlazor.Pages.OpceClient",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1441026850,
         "Kind": "Components.Component",
         "Name": "OPCBlazor.Pages.OpcLabs",
@@ -173,6 +140,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "OPCBlazor.Pages.OpcLabs",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1599669415,
+        "Kind": "Components.Component",
+        "Name": "OPCBlazor.Pages.OpceClient",
+        "AssemblyName": "OPCBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OpceClient"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "OPCBlazor.Pages.OpceClient"
+        }
+      },
+      {
+        "HashCode": -2089416712,
+        "Kind": "Components.Component",
+        "Name": "OPCBlazor.Pages.OpceClient",
+        "AssemblyName": "OPCBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OPCBlazor.Pages.OpceClient"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "OPCBlazor.Pages.OpceClient",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
